@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "nombre": "Consola retro portátil",
+      "precio": 50,
+      "imagen": "https://i.ibb.co/5W74fsh/Consola-retro-portatil.jpg"
+    },
+    {
+      "id": "2",
+      "nombre": "Consola portátil moderna",
+      "precio": 200,
+      "imagen": "https://i.ibb.co/FzqCdZH/Consola-moderna-portatil.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Control arcade",
+      "precio": 35,
+      "imagen": "https://i.ibb.co/5jQwnwt/Control-arcade.webp"
+    },
+    {
+      "id": "4",
+      "nombre": "Consola retro",
+      "precio": 100,
+      "imagen": "https://i.ibb.co/S5vDXD9/Consola-retro.jpg"
+    },
+    {
+      "id": "5",
+      "nombre": "Consola retro portátil",
+      "precio": 50,
+      "imagen": "https://i.ibb.co/5W74fsh/Consola-retro-portatil.jpg"
+    },
+    {
+      "id": "6",
+      "nombre": "Consola portátil moderna",
+      "precio": 200,
+      "imagen": "https://i.ibb.co/FzqCdZH/Consola-moderna-portatil.jpg"
+    },
+    {
+      "id": "7",
+      "nombre": "Control arcade",
+      "precio": 35,
+      "imagen": "https://i.ibb.co/5jQwnwt/Control-arcade.webp"
+    },
+    {
+      "id": "8",
+      "nombre": "Consola retro",
+      "precio": 100,
+      "imagen": "https://i.ibb.co/S5vDXD9/Consola-retro.jpg"
+    }
+  ]
+}
